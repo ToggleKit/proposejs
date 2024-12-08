@@ -30,6 +30,6 @@ npm install proposejs
 ```
 You can also use ProposeJS via CDN
 ```
-https://cdn.
+https://cdn.jsdelivr.net/gh/ToggleKit/proposejs@main/engine.min.js
 ```
 [Learn ProposeJS](https://proposejs.pages.dev)
