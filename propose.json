@@ -1,0 +1,31 @@
+{
+  "constant":{
+    "selector":"constant/file/path"
+  },
+  "common":{
+    "tergeted/directory/path":{
+      "common/file/path":"selector"
+    }
+  },
+  "unique":["selectors"],
+  "css":{
+    "constant":["constant/css/file/path"],
+    "common":{
+      "tergeted/directory/path":["common/css/file/path"]
+    },
+    "specific":{
+      "specific/tergeted/page/path":["common/css/file/path"]
+ 
+    }
+  },
+  "script":{
+    "constant": ["constant/js/file/path"],
+    "common":{
+      "tergeted/directory/path":["common/js/file/path"]
+    },
+    "specific":{
+      "specific/tergeted/page/path":["common/js/file/path"]
+    }
+  },
+  "preloader":"/preloader.html"
+}

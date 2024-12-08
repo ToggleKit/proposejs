@@ -1,0 +1,12 @@
+{
+  "name":"proposejs",
+  "version":"1.0.0",
+  "description":"Client-side renderer web engine",
+  "main":"/engine.min.js",
+  "scripts":{
+    "test":"echo \"Error: no test specified\" && exit 1"
+  },
+  "keyword":["Propose JS","Client side renderer","Single page application","No depending on back-end"],
+  "author": "Setu Hossain Rakib",
+  "licence":"MIT"
+}
