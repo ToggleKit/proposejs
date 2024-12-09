@@ -26,7 +26,7 @@
 ## Installation
 You can install ProposeJS via npm:
 ```bash
-npm install proposejs
+npm i proposejs
 ```
 You can also use ProposeJS via CDN
 ```
