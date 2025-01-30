@@ -32,6 +32,6 @@ npm i proposejs
 ```
 You can also use ProposeJS via CDN
 ```HTML
-<script src='https://cdn.jsdelivr.net/gh/ToggleKit/proposejs@main/engine.min.js' ></script>
+<script src='https://cdn.jsdelivr.net/gh/ToggleKit/proposejs@v2.0.1/engine.js' ></script>
 ```
 [Learn ProposeJS](https://proposejs.pages.dev)
