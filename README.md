@@ -1,8 +1,8 @@
 # [ProposeJS](https://proposejs.pages.dev/)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://proposejs.pages.dev/p/licence.html) ![NPM Version](https://img.shields.io/npm/v/proposejs)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://proposejs.pages.dev/p/licence.html) ![NPM Version](https://img.shields.io/npm/v/proposejs)
 
 
-**ProposeJS** is a client-side renderer web engine designed to help developers create single-page websites without relying on server-side programming languages. It offers a maintainable, search engine indexable, and valid URL single-page experience using pure HTML, CSS, and JavaScript. No need to learn any new syntax!
+**ProposeJS** is a client-side renderer web engine designed to help developers create single-page websites without relying on server-side programming languages. It offers a maintainable, SEO friendly, and valid URL single-page experience using pure HTML, CSS, and JavaScript. No need to learn any new syntax!
 
 ## Features
 - **Maintainable**: Easy to manage and scale your project.
@@ -19,9 +19,11 @@
 - Portfolios
 - Static Informational Sites
 - Educational Resources
+- Dynamic web apps (Client site)
+- Client site tools
 
-## License
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://proposejs.pages.dev/p/licence.html)
+##  License 
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://proposejs.pages.dev/p/licence.html)
 
 ## Installation
 You can install ProposeJS via npm:
@@ -29,7 +31,7 @@ You can install ProposeJS via npm:
 npm i proposejs
 ```
 You can also use ProposeJS via CDN
-```
-https://cdn.jsdelivr.net/gh/ToggleKit/proposejs@main/engine.min.js
+```HTML
+<script src='https://cdn.jsdelivr.net/gh/ToggleKit/proposejs@main/engine.min.js' ></script>
 ```
 [Learn ProposeJS](https://proposejs.pages.dev)
