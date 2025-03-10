@@ -1,6 +1,6 @@
 {
   "name": "proposejs",
-  "version": "2.0.1",
+  "version": "2.0.5",
   "description": "Client-side renderer web engine",
   "main": "/engine.js",
   "scripts": {
